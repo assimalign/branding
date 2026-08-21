@@ -1,0 +1,38 @@
+{
+  "ground": {
+    "dark": "#161826",
+    "light": "#f3f5fe"
+  },
+  "ink": {
+    "onDark": "#e9e9ed",
+    "onLight": "#292b31"
+  },
+  "accents": {
+    "assimalign": {
+      "onDark": "#85ad5a",
+      "onLight": "#4e6f24"
+    },
+    "cohesion": {
+      "onDark": "#5197db",
+      "onLight": "#1d66a7"
+    },
+    "ograph": {
+      "onDark": "#2baea1",
+      "onLight": "#007d71"
+    },
+    "viu": {
+      "onDark": "#c472aa",
+      "onLight": "#904379"
+    }
+  },
+  "variants": {
+    "per-product": "each product mark uses its own accent hue",
+    "mono": "product marks use the company moss accent (files suffixed -mono)"
+  },
+  "opacities": {
+    "halo": 0.2,
+    "skeletonGlow": 0.55,
+    "graphEdge": 0.4
+  },
+  "source": "oklch — company moss L70% C0.12 H130 (light L50% C0.11); cohesion L66% C0.125 H250; ograph L68% C0.11 H185; viu L66% C0.125 H340; on-light product variants drop L to 50-52%"
+}

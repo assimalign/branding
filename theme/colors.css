@@ -1,0 +1,17 @@
+:root{
+  --al-ground: #161826;
+  --al-ground-light: #f3f5fe;
+  --al-ink-on-dark: #e9e9ed;
+  --al-ink-on-light: #292b31;
+  --al-assimalign: #85ad5a;
+  --al-assimalign-on-light: #4e6f24;
+  --al-cohesion: #5197db;
+  --al-cohesion-on-light: #1d66a7;
+  --al-ograph: #2baea1;
+  --al-ograph-on-light: #007d71;
+  --al-viu: #c472aa;
+  --al-viu-on-light: #904379;
+  --al-halo-opacity: 0.2;
+  --al-glow-opacity: 0.55;
+  --al-graph-edge-opacity: 0.4;
+}
